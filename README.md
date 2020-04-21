@@ -4,9 +4,9 @@
 [![Build Status](https://dev.azure.com/dfds/YourAzureDevOpsProject/_apis/build/status/Name-Of-CI-Pipeline?branchName=master)](https://dev.azure.com/dfds/YourAzureDevOpsProject/_build/latest?definitionId=1378&branchName=master)
 
 <!-- TABLE OF CONTENTS -->
+<!-- omit in toc -->
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
